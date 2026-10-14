@@ -1,0 +1,10 @@
+# Local development state does not belong in the published repository.
+.git/
+node_modules/
+.env
+.env.*
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
